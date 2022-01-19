@@ -1,0 +1,14 @@
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\bin\Debug\netcoreapp3.1\SumOfaNumber.exe
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\bin\Debug\netcoreapp3.1\SumOfaNumber.deps.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\bin\Debug\netcoreapp3.1\SumOfaNumber.runtimeconfig.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\bin\Debug\netcoreapp3.1\SumOfaNumber.runtimeconfig.dev.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\bin\Debug\netcoreapp3.1\SumOfaNumber.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\bin\Debug\netcoreapp3.1\SumOfaNumber.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.csproj.AssemblyReference.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.AssemblyInfoInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.AssemblyInfo.cs
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.csproj.CoreCompileInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\SumOfaNumber\obj\Debug\netcoreapp3.1\SumOfaNumber.genruntimeconfig.cache

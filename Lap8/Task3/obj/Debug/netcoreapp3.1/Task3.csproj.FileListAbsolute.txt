@@ -1,0 +1,14 @@
+D:\[Tony]\Homework\learningC#\Lap8\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+D:\[Tony]\Homework\learningC#\Lap8\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+D:\[Tony]\Homework\learningC#\Lap8\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+D:\[Tony]\Homework\learningC#\Lap8\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+D:\[Tony]\Homework\learningC#\Lap8\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+D:\[Tony]\Homework\learningC#\Lap8\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.AssemblyReference.cache
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+D:\[Tony]\Homework\learningC#\Lap8\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache

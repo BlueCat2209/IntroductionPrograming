@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\bin\Debug\netcoreapp3.1\PrintEvenPosition.exe
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\bin\Debug\netcoreapp3.1\PrintEvenPosition.deps.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\bin\Debug\netcoreapp3.1\PrintEvenPosition.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\bin\Debug\netcoreapp3.1\PrintEvenPosition.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\bin\Debug\netcoreapp3.1\PrintEvenPosition.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\bin\Debug\netcoreapp3.1\PrintEvenPosition.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\PrintEvenPosition\obj\Debug\netcoreapp3.1\PrintEvenPosition.genruntimeconfig.cache

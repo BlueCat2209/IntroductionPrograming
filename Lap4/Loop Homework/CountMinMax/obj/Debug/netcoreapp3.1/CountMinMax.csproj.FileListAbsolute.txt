@@ -1,0 +1,14 @@
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\bin\Debug\netcoreapp3.1\CountMinMax.exe
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\bin\Debug\netcoreapp3.1\CountMinMax.deps.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\bin\Debug\netcoreapp3.1\CountMinMax.runtimeconfig.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\bin\Debug\netcoreapp3.1\CountMinMax.runtimeconfig.dev.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\bin\Debug\netcoreapp3.1\CountMinMax.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\bin\Debug\netcoreapp3.1\CountMinMax.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.csproj.AssemblyReference.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.AssemblyInfoInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.AssemblyInfo.cs
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.csproj.CoreCompileInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\CountMinMax\obj\Debug\netcoreapp3.1\CountMinMax.genruntimeconfig.cache

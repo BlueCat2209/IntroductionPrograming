@@ -1,0 +1,14 @@
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\bin\Debug\netcoreapp3.1\DividedBy7.exe
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\bin\Debug\netcoreapp3.1\DividedBy7.deps.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\bin\Debug\netcoreapp3.1\DividedBy7.runtimeconfig.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\bin\Debug\netcoreapp3.1\DividedBy7.runtimeconfig.dev.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\bin\Debug\netcoreapp3.1\DividedBy7.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\bin\Debug\netcoreapp3.1\DividedBy7.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.csproj.AssemblyReference.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.AssemblyInfoInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.AssemblyInfo.cs
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.csproj.CoreCompileInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\DividedBy7\obj\Debug\netcoreapp3.1\DividedBy7.genruntimeconfig.cache

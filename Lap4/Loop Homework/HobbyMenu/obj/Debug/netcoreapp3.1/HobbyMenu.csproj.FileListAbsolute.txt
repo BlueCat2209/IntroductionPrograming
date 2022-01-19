@@ -1,0 +1,13 @@
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.AssemblyInfoInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.AssemblyInfo.cs
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.csproj.CoreCompileInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\bin\Debug\netcoreapp3.1\HobbyMenu.exe
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\bin\Debug\netcoreapp3.1\HobbyMenu.deps.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\bin\Debug\netcoreapp3.1\HobbyMenu.runtimeconfig.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\bin\Debug\netcoreapp3.1\HobbyMenu.runtimeconfig.dev.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\bin\Debug\netcoreapp3.1\HobbyMenu.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\bin\Debug\netcoreapp3.1\HobbyMenu.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\HobbyMenu\obj\Debug\netcoreapp3.1\HobbyMenu.genruntimeconfig.cache

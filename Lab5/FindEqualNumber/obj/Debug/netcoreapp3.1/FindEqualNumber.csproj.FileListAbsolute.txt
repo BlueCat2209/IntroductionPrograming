@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\bin\Debug\netcoreapp3.1\FindEqualNumber.exe
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\bin\Debug\netcoreapp3.1\FindEqualNumber.deps.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\bin\Debug\netcoreapp3.1\FindEqualNumber.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\bin\Debug\netcoreapp3.1\FindEqualNumber.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\bin\Debug\netcoreapp3.1\FindEqualNumber.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\bin\Debug\netcoreapp3.1\FindEqualNumber.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\FindEqualNumber\obj\Debug\netcoreapp3.1\FindEqualNumber.genruntimeconfig.cache

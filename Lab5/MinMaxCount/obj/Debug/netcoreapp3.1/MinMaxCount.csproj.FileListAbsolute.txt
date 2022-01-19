@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\bin\Debug\netcoreapp3.1\MinMaxCount.exe
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\bin\Debug\netcoreapp3.1\MinMaxCount.deps.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\bin\Debug\netcoreapp3.1\MinMaxCount.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\bin\Debug\netcoreapp3.1\MinMaxCount.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\bin\Debug\netcoreapp3.1\MinMaxCount.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\bin\Debug\netcoreapp3.1\MinMaxCount.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\MinMaxCount\obj\Debug\netcoreapp3.1\MinMaxCount.csproj.AssemblyReference.cache

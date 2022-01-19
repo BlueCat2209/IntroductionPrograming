@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\bin\Debug\netcoreapp3.1\TwoArray.exe
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\bin\Debug\netcoreapp3.1\TwoArray.deps.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\bin\Debug\netcoreapp3.1\TwoArray.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\bin\Debug\netcoreapp3.1\TwoArray.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\bin\Debug\netcoreapp3.1\TwoArray.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\bin\Debug\netcoreapp3.1\TwoArray.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\TwoArray\obj\Debug\netcoreapp3.1\TwoArray.genruntimeconfig.cache

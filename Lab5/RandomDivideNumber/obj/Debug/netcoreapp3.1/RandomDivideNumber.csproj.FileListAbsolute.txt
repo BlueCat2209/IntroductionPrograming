@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\bin\Debug\netcoreapp3.1\RandomDivideNumber.exe
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\bin\Debug\netcoreapp3.1\RandomDivideNumber.deps.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\bin\Debug\netcoreapp3.1\RandomDivideNumber.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\bin\Debug\netcoreapp3.1\RandomDivideNumber.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\bin\Debug\netcoreapp3.1\RandomDivideNumber.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\bin\Debug\netcoreapp3.1\RandomDivideNumber.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\RandomDivideNumber\obj\Debug\netcoreapp3.1\RandomDivideNumber.csproj.AssemblyReference.cache

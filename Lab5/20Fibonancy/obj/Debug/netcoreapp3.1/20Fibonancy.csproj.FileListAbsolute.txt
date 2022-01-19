@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\bin\Debug\netcoreapp3.1\20Fibonancy.exe
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\bin\Debug\netcoreapp3.1\20Fibonancy.deps.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\bin\Debug\netcoreapp3.1\20Fibonancy.runtimeconfig.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\bin\Debug\netcoreapp3.1\20Fibonancy.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\bin\Debug\netcoreapp3.1\20Fibonancy.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\bin\Debug\netcoreapp3.1\20Fibonancy.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.dll
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.pdb
+C:\Users\Administrator\source\repos\PrintEvenPosition\20Fibonancy\obj\Debug\netcoreapp3.1\20Fibonancy.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\bin\Debug\netcoreapp3.1\IdentifyCharacter.exe
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\bin\Debug\netcoreapp3.1\IdentifyCharacter.deps.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\bin\Debug\netcoreapp3.1\IdentifyCharacter.runtimeconfig.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\bin\Debug\netcoreapp3.1\IdentifyCharacter.runtimeconfig.dev.json
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\bin\Debug\netcoreapp3.1\IdentifyCharacter.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\bin\Debug\netcoreapp3.1\IdentifyCharacter.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.csproj.AssemblyReference.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.AssemblyInfoInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.AssemblyInfo.cs
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.csproj.CoreCompileInputs.cache
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.dll
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.pdb
+D:\[Tony]\Homework\learningC#\Loop Homework\Loop Homework\IdentifyCharacter\obj\Debug\netcoreapp3.1\IdentifyCharacter.genruntimeconfig.cache
